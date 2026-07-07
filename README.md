@@ -31,13 +31,12 @@ Click into any of the dedicated application directories to get specific setup fi
 
 Semantic Versioning is employed to track the evolution of each theme. 
 
-## [1.0.0] - 2026-07-07
-
-### Added
+### [1.0.0] - 2026-07-07
+#### Added
 - Official v1.0.0 production baseline release for full compatibility with the Blender Extensions platform.
 - Refactored `blender_manifest.toml` version metadata to meet registry requirements.
 
-### Changed
+#### Changed
 - Promoted development tracking build state to stable release profile.
 - Verified and synced internal theme XML architecture against Blender 5 theme parsing engines.
 
