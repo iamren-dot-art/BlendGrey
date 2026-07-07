@@ -1,0 +1,30 @@
+schema_version = "1.0.0"
+
+id = "blendgrey"
+version = "1.0.0"
+name = "BlendGrey"
+tagline = "Matte Grey w/ Blue inspired by Blender 2.7"
+maintainer = "iamren-dot-art"
+
+# Supported types: "add-on", "theme"
+type = "theme"
+
+# Website
+website = "https://github.com/iamren-dot-art/BlendGrey"
+
+# Add-ons
+# * Nerd Fonts: "https://www.nerdfonts.com/font-downloads"
+#   * Interface: "JetBrainsMonoNL NFP Medium"
+#   * Monospace: "Iosevka NFM"
+
+
+# Tags
+tags = ["Dark", "Inspired By"]
+
+# Target baseline for the Blender 5 core refactor
+blender_version_min = "5.0.0"
+
+# Matches your repository's GPLv2 file architecture
+license = ["SPDX:GPL-2.0-or-later"]
+
+copyright = ["2026 iamren-dot-art"]

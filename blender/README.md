@@ -13,7 +13,7 @@ This setup is built directly upon the legacy Grayscale theme by AlexMcKonst, ref
 
 ---
 
-## 🛠️ Installation & Setup (Blender 5+)
+## 🛠️ Local Installation from Disk & Setup (Blender 5+)
 
 Instead of using the basic installation installer, dropping the configuration file directly into Blender's system directory ensures it natively loads into your layout presets.
 
@@ -51,6 +51,16 @@ Head down to the `Text Editor` options category inside the Themes menu. Double-c
 ---
 
 ## 📜 Application Changelog
+
+## [1.0.0] - 2026-07-07
+
+### Added
+- Official v1.0.0 production baseline release for full compatibility with the Blender Extensions platform.
+- Refactored `blender_manifest.toml` version metadata to meet registry requirements.
+
+### Changed
+- Promoted development tracking build state to stable release profile.
+- Verified and synced internal theme XML architecture against Blender 5 theme parsing engines.
 
 ### [0.1.0] - 2026-07-06
 #### Added
