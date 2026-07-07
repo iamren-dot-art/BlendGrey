@@ -20,8 +20,11 @@ Follow these quick steps to inject the `BlendGrey` template into your software p
 1. **Fire up Blender** and navigate to the top menu bar: Select `Edit ➔ Preferences`.
 2. Select the **Themes** tab on the left-hand sidebar of the preferences window.
 3. Click the **Install...** button located in the upper-right corner of the panel.
-4. Use the file browser to navigate to your WIP or local themes directory, select `BlendGrey.xml`, and hit **Install Theme**.
-5. **The Finishing Tweak:** Head to the `Text Editor` dropdown inside that same Themes menu. Ensure your syntax colors match the high-contrast pastel configurations. 
+4. Use the file browser to navigate to your WIP or local themes directory, select `BlendGrey_[version].xml`, and hit **Install Theme**.
+5. **Set the tyupefaces:** BlendGrey makes use of OSS NerdFonts which are linked below. Goto `Edit ➔ Preferences`, select the `Interface` tab, then twirl down the `Text Rendering` section.
+    * **Interface font:** [JetBrainsMonoNL NFP Medium](https://www.nerdfonts.com/font-downloads)
+    * **Monospace font:** [Iosevka NFM](https://www.nerdfonts.com/font-downloads)
+6. **The Finishing Tweak:** Head to the `Text Editor` dropdown inside that same Themes menu. Ensure your syntax colors match the high-contrast pastel configurations. 
 
 > 💡 **Pro-Tip:** If you ever need to manually adjust a stray hex color chip inside Blender's picker menus later, you don't need to click through sub-menus. Just hover your mouse pointer directly over any color box and hit `Ctrl + C` to copy or `Ctrl + V` to paste a hex string instantly!
 
