@@ -1,3 +1,44 @@
-The overall appearance is in the classic colors of the panels of the blender version 2.79.
-However, the text editor window appears in dark colors.
-![Screenshot_1](https://github.com/AlexMcKonst/Grayscale-Color-Theme/assets/26620124/46c05edc-e7a8-4bba-a8e9-f0548a43e101)
+# 🎨 BlendGrey_5
+
+**BlendGrey** is a cohesive mid-grey, black, and blue cross-platform theme ecosystem inspired by the classic Blender 2.7 aesthetic. Updated and refined for a modern, high-contrast workflow.
+
+The theme aims to capture the clean layout of the classic Blender 2.7 workspace (utilizing a signature matte mid-grey on black canvas anchored by slate blue highlights) while revising the code syntax with high-contrast pastel colors optimized for modern ultrawide screens.
+
+---
+
+## 🚀 The Visual Tour
+
+
+### 🧊 Blender 5+
+![Blender 5 Viewport and Editor Layout](images/BlendGrey_blender_5_sc_01.png)
+
+### 💻 VSCode
+![VSCode High-Contrast Syntax Layout](images/BlendGrey_VSCode_sc_01.png)
+
+---
+
+## 🌐 Supported Apps (so far)
+
+Click into any of the dedicated application directories to get specific setup files, compatibility notes, and target screenshots:
+
+* **[🧊 Blender](./blender)** - Native UI theme overlays and script console presets.
+* **[💻 VSCode](./vscode)** - Complete workbench color tweaks and high-visibility text tokens.
+* **[📂 OneCommander](./onecommander)** - *(In Development)* Unified styling for your filesystem architecture.
+
+---
+
+## 📜 Latest Ecosystem Updates
+
+Semantic Versioning is employed to track the evolution of each theme. 
+
+### [0.1.0] - 2026-07-06
+#### Added
+- **Blender (v0.1.0):** Initial refactor and layout translation for clean Blender 5 file parsing.
+- **VSCode (v0.1.0):** Deployed custom pastel text tokens and button-style active file tab tracking.
+- **OneCommander (v0.0.1):** Provisioned backend directory space for upcoming design alignment.
+
+---
+
+## 👥 Credits & Acknowledgments
+- Inspired by and hard-forked from the legacy Blender 4 theme baseline created by [AlexMcKonst](https://github.com/AlexMcKonst/Grayscale-Color-Theme).
+- Designed and maintained by **iamren**.
