@@ -1,5 +1,5 @@
 # BlendGrey
-A sophisticated family of color-neutral themes inspired by the iconic Blender 2.7 aesthetic. The theme utilizes a mid-grey foundation with deep slate accents and muted blue highlights, capturing the classic 'pro-tool' feel. Reimagined for modern high-DPI workflows, it retains the signature matte surfaces and soft workspace transitions while introducing an updated UI hierarchy and a pastel-toned syntax palette—optimized for clarity, depth, and long-duration professional use.
+A sophisticated family of color-neutral themes inspired by the iconic Blender 2.7 aesthetic. The theme utilizes a mid-grey foundation with deep slate accents and muted blue highlights, capturing the classic 'pro-tool' feel. Reimagined for modern high-DPI workflows, it retains the signature matte surfaces and soft workspace transitions while introducing an updated UI hierarchy and a pastel-toned syntax palette optimized for clarity, depth, and long-duration professional use.
 
 ## Contents 
 <div style="display: flex; overflow-x: auto; gap: 6px; white-space: nowrap;">
