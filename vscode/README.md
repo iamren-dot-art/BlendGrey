@@ -2,12 +2,6 @@
 
 This directory manages the core user experience properties for Visual Studio Code, transforming the environment into an optimized layout unified with your system-wide design aesthetic.
 
-## 📝 Description & Workspace Features
-Rather than running a standalone packaged marketplace extension, this theme is deployed via hyper-optimized `settings.json` injections. It crafts a complete workbench overlay designed around ultrawide screen workflows:
-- **Ultrawide Centered Workspace:** Activates a pristine centered column layout, preventing neck strain by letterboxing code paths directly in your primary field of view.
-- **Ruff Language Isolation:** Implements strict language-level scopes, isolating the lightning-fast Rust-based Ruff formatter to Python scripts while leaving HTML, CSS, and YAML configurations open for native system parsing.
-- **Blender UI Emulation:** Maps outliner panel backgrounds, status bars, and document tab modules directly to your target Blender hex values.
-
 ## 💡 Inspiration
 The visual design language is translated directly from the classic Blender workspace engine. The interactive token engine abandons flat dark theme styles, implementing highly reactive hover parameters (such as button-style inactive tabs that snap to pure white text on mouse-over) to create an intentional interface layout.
 
