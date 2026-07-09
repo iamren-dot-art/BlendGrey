@@ -572,7 +572,7 @@
     </view_3d>
     <graph_editor>
       <ThemeGraphEditor
-        grid="#5e5e5e"
+        grid="#272727"
         vertex="#000000"
         vertex_select="#ff8500"
         vertex_active="#ffffff"
@@ -580,13 +580,13 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#6b6b6b"
+            back="#454545"
             title="#000000"
             text="#a6a6a6"
             text_hi="#000000"
             header="#727272ff"
             header_text="#000000"
-            header_text_hi="#ffffff"
+            header_text_hi="#000000"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -613,10 +613,10 @@
     </file_browser>
     <nla_editor>
       <ThemeNLAEditor
-        grid="#5e5e5e"
+        grid="#272727"
         active_action="#cc701a66"
         active_action_unset="#9987614d"
-        strips="#0c0a0a"
+        strips="#a38888"
         strips_selected="#ff8c00"
         transition_strips="#1c2630"
         transition_strips_selected="#2e75db"
@@ -631,13 +631,13 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#6b6b6b"
+            back="#454545"
             title="#000000"
             text="#a6a6a6"
             text_hi="#000000"
             header="#727272ff"
             header_text="#000000"
-            header_text_hi="#ffffff"
+            header_text_hi="#000000"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -645,7 +645,7 @@
     </nla_editor>
     <dopesheet_editor>
       <ThemeDopeSheet
-        grid="#505050"
+        grid="#272727"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
@@ -796,19 +796,19 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#555555"
-        node_outline="#ffffff26"
-        node_selected="#f15800"
-        node_active="#ffaa40"
+        grid="#181818"
+        node_outline="#000000ff"
+        node_selected="#a5f100"
+        node_active="#ffffff"
         wire="#191919ff"
         wire_inner="#737373"
         wire_select="#ffffffb3"
-        node_backdrop="#575757a0"
+        node_backdrop="#727272cc"
         converter_node="#1fa8ff"
         color_node="#ffdb00"
         group_node="#baff7c"
-        group_socket_node="#303030"
-        frame_node="#999999a0"
+        group_socket_node="#aba65d"
+        frame_node="#2c2c2cff"
         matte_node="#d89393"
         distor_node="#a3ffff"
         noodle_curving="5"
@@ -817,7 +817,7 @@
         input_node="#ff3346"
         output_node="#ff3346"
         filter_node="#bca9ff"
-        vector_node="#4b1aff"
+        vector_node="#7f44ff"
         texture_node="#ff6900"
         shader_node="#00ff85"
         script_node="#b6b6b6"
@@ -830,9 +830,9 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#2a2a2a"
+            back="#3a3a3a"
             title="#000000"
-            text="#ffffff"
+            text="#000000"
             text_hi="#ffffff"
             header="#6c6c6cff"
             header_text="#000000"

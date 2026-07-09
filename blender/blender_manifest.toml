@@ -1,10 +1,10 @@
 schema_version = "1.0.0"
 
 id = "blendgrey"
-version = "1.0.0"
+version = "1.1.0"
 name = "BlendGrey"
 tagline = "Matte Grey w/ Blue inspired by Blender 2.7"
-maintainer = "iamren-dot-art"
+maintainer = "iamren"
 
 # Supported types: "add-on", "theme"
 type = "theme"
@@ -27,4 +27,4 @@ blender_version_min = "5.0.0"
 # Matches your repository's GPLv2 file architecture
 license = ["SPDX:GPL-2.0-or-later"]
 
-copyright = ["2026 iamren-dot-art"]
+copyright = ["2026 iamren"]
