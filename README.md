@@ -7,28 +7,53 @@ A color-neutral theme inspired by the iconic Blender 2.7 aesthetic. The theme ut
 [![Themes](https://img.shields.io/badge/Themes-4f699b)](#themes) [![Key Features](https://img.shields.io/badge/Key_Features-4f699b)](#key-features) [![Support](https://img.shields.io/badge/Support-4f699b)](#support) [![Credits & Acknowledgments](https://img.shields.io/badge/Credits_&_Acknowledgments-4f699b)](#credits--acknowledgments)
 ## Themes 
 
-### 🧊 Blender 5+
-A premium, low-chroma theme family designed to provide a distraction-free, professional workspace inspired by the classic Blender 2.7 aesthetic
+<details open style="background-color: #727272; padding: 10px">
+  <summary>🧊 Blender 5+</summary>
+  
+  ### Screenshots
 
-<table>
-  <thead>
+  <table>
+    <!--- TABLE 1 ROW 1 --->
     <tr>
-      <th>Screenshots</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a target="_blank" rel="noopener noreferrer" href="./images/blender/BlendGrey_1.1.0_blender_5_sc_layout.png" alt="Layout" style="max-width: 100%;">
+      <td style="width: 33.33%; vertical-align: top; padding: 2px;">
+        <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_layout.png" target="_blank" rel="noopener noreferrer"><img src="./images/blender/BlendGrey_1.1.0_blender_5_sc_layout.png" alt="Layout"></a>
       </td>
-      <td>
-        <a target="_blank" rel="noopener noreferrer" href="./images/blender/BlendGrey_1.1.0_blender_5_sc_layout.png" alt="Layout" style="max-width: 100%;">
+      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+        <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_shading.png" target="_blank" rel="noopener noreferrer"><img src="./images/blender/BlendGrey_1.1.0_blender_5_sc_shading.png" alt="Shading"></a>
+      </td>
+      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+        <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_shading.png" target="_blank" rel="noopener noreferrer"><img src ="./images/blender/BlendGrey_1.1.0_blender_5_sc_animation.png"></a>
       </td>
     </tr>
-  </tbody>
-</table>
+    <!--- TABLE 1 ROW 2 --->
+    <tr style="background-color: #4f699b; color: #000000; text-align: center; font-weight: bold; font-size: 1em;">
+      <td>Layout</td>
+      <td>Shading</td>
+      <td>Animation</td>
+    </tr>
+  </table>
+  <table style="margin-top: 30px;">
+    <!--- TABLE 2 ROW 1 --->
+    <tr>
+      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+        <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_geonodes.png"><img src ="./images/blender/BlendGrey_1.1.0_blender_5_sc_geonodes.png"></a>
+      </td>
+      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+        <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_scripting.png"><img src ="./images/blender/BlendGrey_1.1.0_blender_5_sc_scripting.png"></a>
+      </td>
+      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+        <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_scripting.png"><img src ="./images/blender/BlendGrey_1.1.0_blender_5_sc_scripting.png"></a>
+      </td>
+    </tr>
+    <!--- TABLE 2 ROW 2 --->
+    <tr style="background-color: #4f699b; color: #000000; text-align: center; font-weight: bold; font-size: 1em;">
+      <td>Animation</td>
+      <td>GeoNodes</td>
+      <td>Scripting</td>
+    </tr>
+  </table>
 
-<details>
+
 #### Local Installation
 
 1. Open the [latest releases page](#).
@@ -52,6 +77,8 @@ A premium, low-chroma theme family designed to provide a distraction-free, profe
 9. Expand the `Text Rendering` accordion arrow.
 10. Set your fonts as Interface Font: `JetBrainsMonoNL NFP Medium`, Monospace Font: `Iosevka NFM`.
 11. That's it! Your UI should now look just like the screenshots.
+
+</details>
 
 
 ### 💻 VSCode
@@ -82,4 +109,3 @@ There might be a buried menu somewhere that is tough to read or an interactive b
 ## Credits & Acknowledgments
 - Initially forked from, and inspired by, the legacy *Grayscale* theme for Blender 4.2 LTS by [AlexMcKonst](https://github.com/AlexMcKonst/Grayscale-Color-Theme).
 - Designed and maintained by **iamren**.
-</details>
