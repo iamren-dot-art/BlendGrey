@@ -1,5 +1,6 @@
 # Ignore any 'dist' directory anywhere in the project tree
 **/dist/
+/project_files/
 
 # Ignore python cache files
 **/__pycache__/
