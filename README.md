@@ -7,26 +7,27 @@ A color-neutral theme inspired by the iconic Blender 2.7 aesthetic. The theme ut
 [![Themes](https://img.shields.io/badge/Themes-4f699b)](#themes) [![Key Features](https://img.shields.io/badge/Key_Features-4f699b)](#key-features) [![Support](https://img.shields.io/badge/Support-4f699b)](#support) [![Credits & Acknowledgments](https://img.shields.io/badge/Credits_&_Acknowledgments-4f699b)](#credits--acknowledgments)
 ## Themes 
 
-<details open style="background-color: #727272; padding: 10px">
-  <summary>🧊 Blender 5+</summary>
+<!--- BLENDER 5+ --->
+<details>
+  <summary><b>🧊 Blender 5+</b></summary>
   
   ### Screenshots
 
   <table>
     <!--- TABLE 1 ROW 1 --->
     <tr>
-      <td style="width: 33.33%; vertical-align: top; padding: 2px;">
+      <td>
         <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_layout.png" target="_blank" rel="noopener noreferrer"><img src="./images/blender/BlendGrey_1.1.0_blender_5_sc_layout.png" alt="Layout"></a>
       </td>
-      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+      <td>
         <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_shading.png" target="_blank" rel="noopener noreferrer"><img src="./images/blender/BlendGrey_1.1.0_blender_5_sc_shading.png" alt="Shading"></a>
       </td>
-      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+      <td>
         <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_shading.png" target="_blank" rel="noopener noreferrer"><img src ="./images/blender/BlendGrey_1.1.0_blender_5_sc_animation.png"></a>
       </td>
     </tr>
     <!--- TABLE 1 ROW 2 --->
-    <tr style="background-color: #4f699b; color: #000000; text-align: center; font-weight: bold; font-size: 1em;">
+    <tr>
       <td>Layout</td>
       <td>Shading</td>
       <td>Animation</td>
@@ -35,23 +36,27 @@ A color-neutral theme inspired by the iconic Blender 2.7 aesthetic. The theme ut
   <table style="margin-top: 30px;">
     <!--- TABLE 2 ROW 1 --->
     <tr>
-      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+      <td>
         <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_geonodes.png"><img src ="./images/blender/BlendGrey_1.1.0_blender_5_sc_geonodes.png"></a>
       </td>
-      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+      <td>
         <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_scripting.png"><img src ="./images/blender/BlendGrey_1.1.0_blender_5_sc_scripting.png"></a>
       </td>
-      <td style="width: 33.33%; vertical-align: top; padding: 2px;>
+      <td>
         <a href="./images/blender/BlendGrey_1.1.0_blender_5_sc_scripting.png"><img src ="./images/blender/BlendGrey_1.1.0_blender_5_sc_scripting.png"></a>
       </td>
     </tr>
     <!--- TABLE 2 ROW 2 --->
-    <tr style="background-color: #4f699b; color: #000000; text-align: center; font-weight: bold; font-size: 1em;">
+    <tr>
       <td>Animation</td>
       <td>GeoNodes</td>
       <td>Scripting</td>
     </tr>
   </table>
+
+### Install
+#### Blender Extensions Catalogue
+**[Drag and Drop](https://extensions.blender.org/themes/blendgrey/)** into Blender from the official Extensions website.
 
 
 #### Local Installation
@@ -77,28 +82,21 @@ A color-neutral theme inspired by the iconic Blender 2.7 aesthetic. The theme ut
 9. Expand the `Text Rendering` accordion arrow.
 10. Set your fonts as Interface Font: `JetBrainsMonoNL NFP Medium`, Monospace Font: `Iosevka NFM`.
 11. That's it! Your UI should now look just like the screenshots.
-
+<hr>
 </details>
 
 
-### 💻 VSCode
-
-Complete workbench color theme and high-visibility text tokens.
-
-![VSCode Theme](./images/vscode/BlendGrey_VSCode_v1.0.0.png)
-
-> Installation instructions coming soon.
 ## Key Features
 
-### Optimized neutral Viewport Workflow 
+#### Optimized neutral Viewport Workflow 
 - **Unobtrusive UI:** By utilizing desaturated mid-greys and slate blues, the interface recedes into the background, allowing the vibrant colors of your 3D models, textures, and shaders to remain the primary focus without competition from the UI.
 - **UX Perception:** Use of luminance shifts between panels creates a visual hierarchy, making it easy to distinguish between different groups of data and information quickly.
 
-### Reduced Eye Strain & Visual Comfort
+#### Reduced Eye Strain & Visual Comfort
 - **Low-Chroma Environment:** Minimizes optical fatigue by stripping away high-contrast colors common in many dark themes.
 - **Soft Contrast Ratio:** The palette avoids harsh pure-black (#000000) and blinding white levels, opting for a balanced grey-scale that maintains legibility while reducing light emission/glare.
 
-### High-Legibility Node & Code Systems
+#### High-Legibility Node & Code Systems
 - **Pastel Syntax Palette:** Uses a carefully curated palette of pastel tones for development syntax and nodes. These colors are distinct enough to be easily identified but soft enough to prevent "color bleeding" or visual clutter in complex node trees.
 - **Enhanced Node Readability:** The interface provides high-contrast text against muted backgrounds, ensuring that socket types, values, and labels remain sharp and readable even in dense, multi-layered node setups.
 
