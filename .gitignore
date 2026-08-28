@@ -1,6 +1,8 @@
 # Ignore any 'dist' directory anywhere in the project tree
 **/dist/
 /project_files/
+/freecad/
+/vscode/
 
 # Ignore python cache files
 **/__pycache__/
