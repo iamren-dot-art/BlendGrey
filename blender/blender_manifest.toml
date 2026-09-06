@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "blendgrey"
-version = "1.2.0"
+version = "1.2.1"
 name = "BlendGrey"
 tagline = "Color-neutral theme inspired by the iconic Blender 2.7 aesthetic"
 maintainer = "iamren-dot-art"
