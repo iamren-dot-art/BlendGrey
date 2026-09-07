@@ -34,12 +34,12 @@
         gizmo_a="#4da84d"
         gizmo_b="#a33535"
         icon_scene="#e6e6e6ff"
-        icon_collection="#e3c16e"
+        icon_collection="#e3c16eff"
         icon_object="#e7aa79ff"
         icon_object_data="#89e689ff"
         icon_modifier="#84b8ffff"
         icon_shading="#ffb3b3ff"
-        icon_folder="#e3c16e"
+        icon_folder="#e3c16eff"
         icon_autokey="#ab3c48ff"
         icon_border_intensity="0"
         >
@@ -130,8 +130,8 @@
             inner="#464646ff"
             inner_sel="#464646ff"
             item="#ffffffff"
-            text="#000000"
-            text_sel="#ffffff"
+            text="#a6a6a6"
+            text_sel="#000000"
             show_shaded="TRUE"
             shadetop="15"
             shadedown="-15"
@@ -197,7 +197,7 @@
             text="#000000"
             text_sel="#ffffff"
             show_shaded="FALSE"
-            shadetop="0"
+            shadetop="100"
             shadedown="0"
             roundness="0.4"
             >
@@ -229,7 +229,7 @@
             text="#000000"
             text_sel="#000000"
             show_shaded="FALSE"
-            shadetop="0"
+            shadetop="100"
             shadedown="0"
             roundness="0.4"
             >
@@ -365,7 +365,7 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
-            error="#771111ff"
+            error="#9d453dff"
             warning="#ac8737ff"
             info="#28487dff"
             success="#188625ff"
@@ -405,8 +405,8 @@
       <ThemeRegions>
         <asset_shelf>
           <ThemeRegionsAssetShelf
-            back="#303030e6"
-            header_back="#1d1d1dff"
+            back="#00000054"
+            header_back="#727272ff"
             >
           </ThemeRegionsAssetShelf>
         </asset_shelf>
@@ -429,7 +429,7 @@
         </scrubbing>
         <sidebars>
           <ThemeRegionsSidebars
-            back="#30303000"
+            back="#64646400"
             tab_back="#18181800"
             >
           </ThemeRegionsSidebars>
@@ -803,14 +803,14 @@
         node_selected="#a5f100"
         node_active="#ffffff"
         wire="#191919ff"
-        wire_inner="#737373"
+        wire_inner="#888888"
         wire_select="#ffffffb3"
-        node_backdrop="#727272cc"
+        node_backdrop="#727272ff"
         converter_node="#1fa8ff"
         color_node="#ffdb00"
         group_node="#baff7c"
         group_socket_node="#aba65d"
-        frame_node="#2c2c2cff"
+        frame_node="#222222bf"
         matte_node="#d89393"
         distor_node="#a3ffff"
         noodle_curving="5"
@@ -825,18 +825,18 @@
         script_node="#b6b6b6"
         geometry_node="#00a07c"
         attribute_node="#87b0f7"
-        simulation_zone="#66416233"
-        repeat_zone="#76512f33"
-        foreach_geometry_element_zone="#33527f33"
-        closure_zone="#7d7d3a33"
+        simulation_zone="#903962a6"
+        repeat_zone="#96673c33"
+        foreach_geometry_element_zone="#4b78ba33"
+        closure_zone="#377d0933"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#3a3a3a"
+            back="#333333"
             title="#000000"
-            text="#d4d4d4"
+            text="#000000"
             text_hi="#ffffff"
-            header="#6c6c6cff"
+            header="#727272ff"
             header_text="#000000"
             header_text_hi="#ffffff"
             >
@@ -849,9 +849,9 @@
         match="#5680c2"
         selected_highlight="#708191"
         active="#5680c2"
-        selected_object="#e96a00"
+        selected_object="#f4f4f4"
         active_object="#ffaf29"
-        edited_object="#00806266"
+        edited_object="#0000004c"
         row_alternate="#ffffff10"
         >
         <space>
