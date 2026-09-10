@@ -3,14 +3,12 @@
 <table>
     <!--- TABLE 1 ROW 1 --->
     <tr>
-      <td>
         <a href="./blender/screenshots/1.2.3/BlendGrey_1.2.3_a.png" target="_blank" rel="noopener noreferrer"><img src="./blender/screenshots/1.2.3/BlendGrey_1.2.3_a.png" alt="Screenshot A"></a>
-      </td>
+    </tr>
+    <tr>
       <td>
         <a href="./blender/screenshots/1.2.3/BlendGrey_1.2.3_b.png" target="_blank" rel="noopener noreferrer"><img src="./blender/screenshots/1.2.3/BlendGrey_1.2.3_b.png" alt="Screenshot B"></a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="./blender/screenshots/1.2.3/BlendGrey_1.2.3_c.png" target="_blank" rel="noopener noreferrer"><img src="./blender/screenshots/1.2.3/BlendGrey_1.2.3_c.png" alt="Screenshot C"></a>
       </td>
