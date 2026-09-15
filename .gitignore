@@ -3,6 +3,7 @@
 /project_files/
 /freecad/
 /vscode/
+.aider*
 
 # Ignore python cache files
 **/__pycache__/
